@@ -1,2 +1,1 @@
-# 1er-repositorio
-repositorio de prueba
+Este es el repositorio de prueva para clonar y guardar uno desde git hub
